@@ -1,0 +1,13 @@
+.sidenav-container {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+}
+
+.example-sidenav-content {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	width: 100%;
+}
